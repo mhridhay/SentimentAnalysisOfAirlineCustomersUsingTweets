@@ -1,4 +1,4 @@
-# Sentiment Analysis of airline customers using Tweets 
+# Sentiment Analysis of Airline Customers using Tweets 
 
 Aim to apply natural language processing techniques such as tokenization, lemmatization, stemming, parts-of-speech tagging and text parsing methods on text data from Tweets to capture customer sentiment.
 
