@@ -15,3 +15,5 @@ Algorithms used:
   * Random Forest classifier
   * Ada Boost
   * Multinomial Naïve Bayes
+
+Data Source: https://data.world/crowdflower/airline-twitter-sentiment
