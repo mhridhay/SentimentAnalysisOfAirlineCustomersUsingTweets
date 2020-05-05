@@ -2,6 +2,8 @@
 
 Aim to apply natural language processing techniques such as tokenization, lemmatization, stemming, parts-of-speech tagging and text parsing methods on text data from Tweets to capture customer sentiment.
 
+You can view and run the code in Google Colab: [Link](https://colab.research.google.com/drive/1zB5F5IU3V1PLFCsBIC27ghoUbPdrC_Ir)
+
 Sentiment Analysis Tools:
   * TextBlob
   * VADER
